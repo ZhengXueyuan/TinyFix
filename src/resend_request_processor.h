@@ -14,7 +14,7 @@ class ResendRequestProcessor
 public:
     ResendRequestProcessor();
 
-    void operator()(){}
+    void operator()(  ){}
 
 
 };
